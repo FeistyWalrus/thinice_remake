@@ -16,7 +16,7 @@ Game:
   3. Run the file Thin Ice.exe 
 
   Game Notes:
-  Tested and working on Windows 10, should work on other versions of Windows
+  Tested and working on Windows 10, should work on other versions of Windows.
   **Untested for macOS and Linux systems**
 
 Project: 
