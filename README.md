@@ -26,7 +26,7 @@ Project:
 
 
   Project Notes:
-  **Do not use prj_thinIce.ypp!** Only use prj_thinIcev2.yyp - This is the newest version of the project file, the old one creates strange errors when deleted, however this may no longer be an issue with the newest version of GMS2.
+  **Do not use prj_thinIce.yyp!** Only use prj_thinIcev2.yyp - This is the newest version of the project file, the old one creates strange errors when deleted, however this may no longer be an issue with the newest version of GMS2.
   **Project still worked as of GMS2 version v2023.1.1.62 Runtime v2023.1.1.81**
 
 Disclaimer:
