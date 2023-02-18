@@ -31,4 +31,4 @@ Project:
 
 Disclaimer:
 I do not own the rights to any of the characters, music, or other assets used in the game. The copyright is held by Disney.
-Some assets were taken directly from the original game, some I recreated.
+Some assets were taken directly from the original game, most I recreated.
