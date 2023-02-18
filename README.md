@@ -1,7 +1,7 @@
 # thinice_remake
 This is a Game Maker Studio 2 project to recreate the Club Penguin mini game called "Thin Ice."
 
-I created this in my Freshman year of college just for fun. The goal was to recreate it as a stand alone game. 
+I created this in my Freshman year of college just for fun. The goal was to recreate the Club Penguin game as a stand alone game. 
 I created all the objects in the game to function on their own, and most combinations of tiles should be functional.
 The project files are all available if  you want to get crazy and create your own levels.
 However, I wanted to have a completed solo programming project to show off, so I decided to only remake all the 
@@ -14,6 +14,8 @@ Game:
   1. Download ThinIce_Game.zip from this github source.
   2. Extract the files to a new folder
   3. Run the file Thin Ice.exe 
+  **Tested and working on Windows 10, should work on other versions of Windows**
+  **Untested for macOS and Linux systems**
 
 Project: 
   1. Download ThinIce_Project.zip from this github source.
