@@ -9,6 +9,7 @@ original levels instead of adding new ones. There are two zip files included, on
 with an executable of the game.
 
 To install:
+
 Game:
   1. Download ThinIce_Game.zip from this github source.
   2. Extract the files to a new folder
